@@ -1,0 +1,10 @@
+{
+  "Index": {
+    "title": "pagina principal",
+    "btnIrAbout": "Ir Para About"
+  },
+  "About": {
+    "title": "pagina Sobre",
+    "btnIrAbout": "Ir Para Principal"
+  }
+}
